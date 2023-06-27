@@ -23,6 +23,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## create-nuxt-app
 
+```
 create-nuxt-app v2.9.2
 ✨  Generating Nuxt.js project in .
 ? Project name nuxt-text-chatroom
@@ -35,3 +36,4 @@ create-nuxt-app v2.9.2
 ? Choose linting tools (Press <space> to select, <a> to toggle all, <i> to invert selection)
 ? Choose test framework None
 ? Choose rendering mode Universal (SSR)
+```
